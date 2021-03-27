@@ -1,0 +1,20 @@
+.collection-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.material-icons {
+    cursor: pointer;
+}
+
+.likes{
+    display: flex;
+    align-items: center;
+    width: 4%;
+    justify-content: space-between;
+}
+
+body{
+    padding: 2% 4%;
+}
